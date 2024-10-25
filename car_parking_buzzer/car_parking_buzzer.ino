@@ -45,6 +45,7 @@ void loop() {
 
   Serial.print("Distance: ");
   Serial.println(distance);
+  lcd.print(distance);
 
   unsigned long currentMillis = millis();
   if (distance < 101 && distance > 50){
