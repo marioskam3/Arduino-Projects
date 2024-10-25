@@ -9,3 +9,4 @@ The frequency of beeps increases as the vehicle approaches the obstacles. The dr
 
 ## Circuit Diagram
 ![circuit_diagram](/diagrams/car_parking_buzzer.png)
+you can find code and circuit to test it online with wokwi [here](https://wokwi.com/projects/412726986060388353)
