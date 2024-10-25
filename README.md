@@ -8,3 +8,4 @@ The system uses an ultrasonic sensor to calculate distance. If the distance is m
 The frequency of beeps increases as the vehicle approaches the obstacles. The driver is also getting notified through a LCD monitor.
 
 ## Circuit Diagram
+![circuit_diagram](/Diagrams/car_parking_buzzer.png)
